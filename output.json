@@ -1,0 +1,17 @@
+{
+	"select": {
+		"column": "age",
+		"type": "['MIN']"
+	},
+	"from": {
+		"table": "student"
+	},
+	"join": {
+	},
+	"where": {
+	},
+	"group_by": {
+	},
+	"select": {
+	},
+}
